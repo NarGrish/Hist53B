@@ -1,9 +1,9 @@
 /**
  * ------------------------------------------------------------
  * Copyright (c) All rights reserved
- * SiLab, Institute of Physics, University of Bonn
+ * SiLab, Institute of Physics, University of Bonn, by Tobias B.
  * ------------------------------------------------------------
- */
+ */ 
 
 `timescale 1ps/1ps
 
